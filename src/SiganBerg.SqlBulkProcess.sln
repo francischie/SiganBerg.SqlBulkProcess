@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SiganBerg.SqlBulkProcess", "SiganBerg.SqlBulkProcess\SiganBerg.SqlBulkProcess.csproj", "{18A5A0DC-43DB-444F-9C17-E8AB8D703335}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18A5A0DC-43DB-444F-9C17-E8AB8D703335}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18A5A0DC-43DB-444F-9C17-E8AB8D703335}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18A5A0DC-43DB-444F-9C17-E8AB8D703335}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18A5A0DC-43DB-444F-9C17-E8AB8D703335}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
